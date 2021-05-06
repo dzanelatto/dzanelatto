@@ -4,6 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-zanelatto/)](https://www.linkedin.com/in/daniel-zanelatto/)
 
 ### About me
-I'm a {backend, frontend and mobile} developer and technical leader at [@acesso-io](https://www.acessodigital.com.br).
+I'm a {backend, frontend and mobile} developer and technical leader at [@unico](https://unico.io).
 
 - [Website](https://dzanelatto.dev/) 💻 - Working on it.
